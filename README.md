@@ -1,5 +1,6 @@
 # Hi, I am Vishal!
-## ☎️ Contact information
+
+## 📞 Contact information
 
 📧 [Email](mailto:vishal@entropicalabs.com)  |  🐦 [Twitter](http://twitter.com/vshal_shrma)  |  🔗 [LinkedIn](https://www.linkedin.com/in/vishal-sharma-iit/)
 
