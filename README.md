@@ -23,11 +23,13 @@
 ### 💻 Coding and Software Tools
 * Python, Julia, R,Java, Docker
 * QISkit, Cirq, Tensorflow-Quantum,
-* $\LaTeX$
+* LaTeX
+
 ### 💻 Theoretical Skills
 * Quantum Theory
 * Mathematics
 * Engineering
+
 ### 🗣 Languages
 * English 🇮🇳
 * हिंदी 🇮🇳
