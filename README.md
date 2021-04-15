@@ -12,7 +12,7 @@
 
 ### QISkit, Cirq, Tensorflow-Quantum,
 
-### $\LaTeX$
+### $$\LaTeX$$
 
 ## 💻 Theoretical Skills
 
