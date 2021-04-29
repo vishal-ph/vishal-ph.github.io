@@ -16,6 +16,8 @@
 ## 📜 Articles and Talks
 ### Speaker at QHack 2021
 [Quantum Circuit Born Machine with Qubit Recycle](https://www.youtube.com/watch?v=byS5LOr9clM&t=844s)
+### Master Thesis
+[MasterThesis_Vishal.pdf](https://github.com/vishal-ph/vishal-ph.github.io/files/6398580/MasterThesis_Vishal.pdf)
 
 ---
 
@@ -33,7 +35,7 @@
 ### 🗣 Languages
 * English 🇮🇳
 * हिंदी 🇮🇳
-* Deutsch (aber bischen!) 🇩🇪
+* Deutsch(aber bischen!) 🇩🇪
 ---
 
 ## 📚 Education
