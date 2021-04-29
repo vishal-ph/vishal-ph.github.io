@@ -36,6 +36,7 @@
 * English 🇮🇳
 * हिंदी 🇮🇳
 * Deutsch(aber bischen!) 🇩🇪
+
 ---
 
 ## 📚 Education
