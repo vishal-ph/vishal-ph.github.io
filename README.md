@@ -4,7 +4,7 @@
 
 📧 [Email](mailto:vishal@entropicalabs.com)  |  🐦 [Twitter](http://twitter.com/vshal_shrma)  |  🔗 [LinkedIn](https://www.linkedin.com/in/vishal-sharma-iit/)
 
-> I am a Quantum Computing Researcher at Entropica Labs, Singapore. I rely on Quantum Algorithms (mostly VQAs) to benchmark present-generation Quantum Computers and constantly pursue their practical applications for real-world problems. I have obtained my academic training in Physics from The Ludwig-Maximilians-Universität München (LMU Munich) and Indian Institute of Technology Delhi (IIT Delhi) with a Masters in Physics and a Bachelors in Engineering Physics respectively. I am a practise minimalism of ownership.
+> I am a Quantum Computing Research Engineer at Entropica Labs, Singapore. I rely on Quantum Algorithms (mostly VQAs) to benchmark present-generation Quantum Computers and constantly pursue their practical applications for real-world problems. I have obtained my Masters of Science education in Physics from the Ludwig-Maximilians-Universität München (LMU Munich) and my Bachelors of Technology in Engineering Physics from Indian Institute of Technology Delhi (IIT Delhi). Outside work I enjoy learning about linguistics and history of human migrations and cultures.
 
 ---
 
@@ -21,19 +21,19 @@
 
 ## 🛠 Skills
 ### 💻 Coding and Software Tools
-* Python, Julia, R,Java, Docker
-* QISkit, Cirq, Tensorflow-Quantum,
+* Python, Julia, R, Java, Docker
+* Qiskit, Cirq, Tensorflow-Quantum,
 * LaTeX
 
-### 💻 Theoretical Skills
+### 💻 Academic Skills
 * Quantum Theory
 * Mathematics
 * Engineering
 
 ### 🗣 Languages
-* English 🇮🇳
+* English 🇬🇧
 * हिंदी 🇮🇳
-* Deutsch(aber bischen!) 🇩🇪
+* Deutsch (ich lerne) 🇩🇪
 
 ---
 
