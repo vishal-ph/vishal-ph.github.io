@@ -1,0 +1,3 @@
+[submodule "union-find-viz"]
+	path = union-find-viz
+	url = git@github.com:vishal-ph/union-find-viz.git
